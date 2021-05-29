@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAYDENFLY
-- 🌱 I’m currently learning html, javascript, node.js, python, php
+- 🌱 I’m currently learning HTML, JAVASCRIPT, NODE JS, PYTHON, PHP
 - 📫 want to know more about me please look at my website, namely https://raydenfly76.repl.co
 <!---
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
