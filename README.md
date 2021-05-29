@@ -5,3 +5,4 @@
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
 <!-- Markdown -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RAYDENFLY&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansputera&layout=compact&theme=dark)](https://github.com/RAYDENFLY)
