@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RAYDENFLY
-- 🌱 I’m currently learning HTML, JAVASCRIPT, NODE JS, PYTHON, PHP
-- 📫 want to know more about me please look at my website, namely https://raydenfly76.repl.co
+- 👋 Halo, Perkenalkan nama saya Azis Maulana, saya biasa di panggil Ray Sigatsu.
+- 🌱 Saya, sekarang sedang mempelajari tentang basic AOSP, Design UX, Backend Development,dan Software engineer.
+- 📫 Mau email saya ? Email : raydenfly84@gmail.com.
 <!---
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
 <!-- Markdown -->
