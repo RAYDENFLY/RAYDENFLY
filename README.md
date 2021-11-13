@@ -4,7 +4,7 @@
 <!---
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
 <!-- Markdown -->
-<img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20views&color=00e8c1&style=flat" alt="somepythonprogrammer" /> </p>
+<img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20views&color=00e8c1&style=flat" alt="raydenfly" /> </p>
 
 <h3 align="left">Follow me:</h3>
 
