@@ -1,7 +1,3 @@
-- 👋 Halo, Perkenalkan nama saya Azis Maulana, saya biasa di panggil Ray Sigatsu.
-- 🌱 `Frontend Development`
-- 📫 Mau email saya ? Email : raydenfly84@gmail.com.
-
 
 <!---
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
