@@ -1,5 +1,5 @@
 - 👋 Halo, Perkenalkan nama saya Azis Maulana, saya biasa di panggil Ray Sigatsu.
-- 🌱 Saya, sekarang sedang mempelajari tentang `basic AOSP, Design UX, Frontend Development`
+- 🌱 `Frontend Development`
 - 📫 Mau email saya ? Email : raydenfly84@gmail.com.
 <!---
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
