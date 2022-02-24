@@ -1,4 +1,8 @@
+- 👋 Hi, Im Azis Maulana
+- 🌱 I’m currently learning **Node JS, TypeScript, JavaScript**
 
+
+<h3 align="left">GitHub Stats :</h3>
 <!---
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
 <!-- Markdown -->
