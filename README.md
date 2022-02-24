@@ -6,8 +6,8 @@
 <!---
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
 <!-- Markdown -->
-<img src="https://github-stats-alpha.vercel.app/api/?username=raydenfly&cc=0000CC&ic=000000&bc=000000&tc=FFFFFF" alt="raydenfly" />
 <img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20views&color=00e8c1&style=flat" alt="raydenfly" /> </p>
+<img src="https://github-stats-alpha.vercel.app/api/?username=raydenfly&cc=0000CC&ic=000000&bc=000000&tc=FFFFFF" alt="raydenfly" />
 
 <h3 align="left">Follow me:</h3>
 
