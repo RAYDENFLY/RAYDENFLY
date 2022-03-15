@@ -1,5 +1,5 @@
 - 👋 Hi, Im Azis Maulana
-- 🌱 I’m currently learning **Node JS, TypeScript, JavaScript**
+- 🌱 I’m currently learning **Node JS, TypeScript, JavaScript, C++**
 
 
 <h3 align="left">GitHub Stats :</h3>
