@@ -1,7 +1,7 @@
-< align="center",
+<p align="center">
 - 👋 Hi, Im Azis Maulana
 - 🌱 I’m currently learning **Node JS, TypeScript, JavaScript, C++**
->
+</p>
 
 <h3 align="center">Language & Tools :</h3> 
 
