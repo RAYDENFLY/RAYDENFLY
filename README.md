@@ -7,7 +7,7 @@
 <h3 align="center">Language & Tools :</h3> 
 
 <p>
-    <img src="https://img.shields.io/badge/CPP-000000?style=for-the-badge&logo=C&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C&logoColor=blue"/>
     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=orange"/>
     <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=grey"/>
     <img src="https://img.shields.io/badge/-GNU_Bash-000000?style=for-the-badge&logo=GNU-Bash&logoColor=4EAA25"/>
