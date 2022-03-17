@@ -6,17 +6,25 @@
 
 <h3 align="center">Language & Tools :</h3> 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<p>
+    <img src="https://img.shields.io/badge/CPP-000000?style=for-the-badge&logo=C&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=grey"/>
+    <img src="https://img.shields.io/badge/-GNU_Bash-000000?style=for-the-badge&logo=GNU-Bash&logoColor=4EAA25"/>
+    <img src="https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue"/>
+</p>
+  <p>
+    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16"/>
+    <img src="https://img.shields.io/badge/XDA--Developers-000000?style=for-the-badge&logo=XDA-Developers&logoColor=%23AC6E2F"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
+    <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+    <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+  </p>
 <h3 align="left">GitHub Stats :</h3>
 <!---
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
