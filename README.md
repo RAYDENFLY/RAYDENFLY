@@ -25,7 +25,8 @@
     <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   </p>
-<h3 align="left">GitHub Stats :</h3>
+  
+<h3 align="center">GitHub Stats :</h3>
 <!---
 want to know more about me please look at my website, namely https://raydenfly76.repl.co
 <!-- Markdown -->
@@ -33,7 +34,7 @@ want to know more about me please look at my website, namely https://raydenfly76
 <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly" />
 <img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20Views&color=blueviolet&style=plastic" alt="raydenfly" /> </p>
 
-<h3 align="left">Follow me:</h3>
+<h3 align="center">Follow me:</h3>
 
 <p align="left">
   <p>
