@@ -40,5 +40,8 @@ want to know more about me please look at my website, namely https://raydenfly76
   <p>
     <a href="https://instagram.com/azis_maulana321"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red"/></a>
     <a href="https://twitter.com/azis_maulana321"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue"/></a>
+    <a href="https://t.me/azis_maulana321"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=blue"/></a>
+    <a href="https://https://wa.me/62858112145701"><img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=Whatsapp&logoColor=green"/></a>
+    <a href="https://forum.xda-developers.com/m/raydenfly.12070255/"><img src="https://img.shields.io/badge/XDA--Developers-000000?style=for-the-badge&logo=XDA-Developers&logoColor=%23AC6E2F"/></a>
     <a href="raydenfly84@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
   </p>
