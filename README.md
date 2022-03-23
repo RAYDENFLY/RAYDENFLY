@@ -1,7 +1,7 @@
 <h3 align="center">Introduction :</h3>
 
 - 👋 Hi, Im Azis Maulana
-- 🌱 I’m currently learning **Node JS, TypeScript, JavaScript, C++**
+- 🌱 I’m currently learning **Node JS, TypeScript, JavaScript, ReactJS, C++, C**
 
 
 <h3 align="center">Language & Tools :</h3> 
