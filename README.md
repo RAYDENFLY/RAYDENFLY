@@ -1,7 +1,7 @@
 <h3 align="center">Introduction :</h3>
 
 - 👋 Hi, Im Azis Maulana
-- 🌱 I’m currently learning **Node JS, TypeScript, JavaScript, ReactJS, C++, C**
+- 🌱 I’m currently learning **Node JS, Kotlin, JavaScript, ReactJS, C++, C**
 
 
 <h3 align="center">Language & Tools :</h3> 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-GNU_Bash-000000?style=for-the-badge&logo=GNU-Bash&logoColor=4EAA25"/>
     <img src="https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=typescript&logoColor=blue"/>
 </p>
   <p>
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
