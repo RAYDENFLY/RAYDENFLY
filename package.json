@@ -4,7 +4,6 @@
   "description": "Ray administrator panel",
   "main": "save-booting.js",
   "scripts": {
-    "start": "save-booting.js",
     "test": "nodemon index.js",
     "savebooting": "save-booting.js"
   },
