@@ -2,7 +2,7 @@
   "name": "RAYDENFLY-website",
   "version": "1.0.0",
   "description": "Ray administrator panel",
-  "main": "save-booting.js",
+  "main": "index.js",
   "scripts": {
     "test": "nodemon index.js",
     "savebooting": "save-booting.js"
