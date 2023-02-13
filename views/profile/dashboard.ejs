@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dashboard</title>
+  </head>
+  <body>
+    <h1>Welcome to the dashboard, <%= user.name %>!</h1>
+    <p>Here are some options you can choose from:</p>
+    <ul>
+      <li><a href="/users">Manage users</a></li>
+      <li><a href="/products">Manage products</a></li>
+      <li><a href="/settings">Edit settings</a></li>
+    </ul>
+    <form action="/logout" method="post">
+      <button type="submit" class="btn btn-secondary">Log Out</button>
+    </form>
+  </body>
+</html>

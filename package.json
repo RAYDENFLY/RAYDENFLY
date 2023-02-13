@@ -1,0 +1,35 @@
+{
+  "name": "senko-website",
+  "version": "1.0.0",
+  "description": "senko administrator panel",
+  "main": "save-booting.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "savebooting": "save-booting.js"
+  },
+  "keywords": [
+    "website",
+    "panel-admin"
+  ],
+  "author": "Senko Programmer Team",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "colors": "^1.4.0",
+    "discord.js": "^14.2.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "html": "^1.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "quick.db": "^9.0.8",
+    "quickdb": "^1.0.5",
+    "tailwind": "^4.0.0"
+  }
+}

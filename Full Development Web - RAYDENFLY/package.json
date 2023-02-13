@@ -1,0 +1,25 @@
+{
+  "name": "senko-website",
+  "version": "1.0.0",
+  "description": "senko administrator panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "website",
+    "panel-admin"
+  ],
+  "author": "Senko Programmer Team",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "html": "^1.0.0",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "tailwind": "^4.0.0"
+  }
+}
