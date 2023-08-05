@@ -1,7 +1,7 @@
 <h3 align="center">Introduction :</h3>
 
 - 👋 Hi, Im Azis Maulana
-- 🌱 I’m currently learning **Node JS, Kotlin, JavaScript, ReactJS, C++, C**
+- 🌱 I’m currently learning **Node JS, Kotlin, JavaScript, ReactJS, NextJS, C++, C, Mikrotik**
 
 
 <h3 align="center">Language & Tools :</h3> 
