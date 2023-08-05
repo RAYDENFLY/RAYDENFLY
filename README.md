@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
     <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+    <img src="https://img.shields.io/badge/Mikrotik-000000?style=for-the-badge&logo=mikrotik&logoColor=gray"/>
   </p>
   
 <h3 align="center">GitHub Stats :</h3>
