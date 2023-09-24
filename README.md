@@ -1,4 +1,4 @@
-up<h3 align="center">Introduction :</h3>
+<h3 align="center">Introduction :</h3>
 
 - 👋 Hi, Im Azis Maulana
 - 🌱 I’m currently learning **Node JS, Kotlin, JavaScript, ReactJS, NextJS, C++, C, Mikrotik**
