@@ -2,6 +2,7 @@
 
 - 👋 Hi, Im Azis Maulana
 - 🌱 I’m currently learning **Node JS, Kotlin, JavaScript, ReactJS, NextJS, C++, C, Mikrotik**
+- 👨‍💻 and I am a computer expert starting from hardware and software
 
 
 <h3 align="center">Language & Tools :</h3> 
