@@ -1,8 +1,8 @@
 <h3 align="center">Introduction :</h3>
 
 - 👋 Hi, Im Azis Maulana
-- 🌱 I’m currently learning **Node JS, Kotlin, JavaScript, ReactJS, NextJS, C++, C, Mikrotik**
-- 👨‍💻 And I am a computer expert starting from Hardware and Software
+- 🌱 I’m currently learning **Kotlin, ReactJS, NextJS, C, Mikrotik**
+- 👨‍💻 And I am a computer expert starting from Hardware and Software ( Adobe Family, JavaScript ( NodeJS ), Python, Microsoft Office )
 
 
 <h3 align="center">Language & Tools :</h3> 
