@@ -1,4 +1,8 @@
 <h3 align="center">👋 Hi, I'm Azis Maulana Suhada</h3>
+<p align="center">
+  <br><img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20Views&color=blueviolet&style=plastic" alt="raydenfly views" />
+</p>
+
 
 - 💻 I’m a **Fullstack Developer** experienced in building web applications using **React, Next.js, Node.js, Laravel, PostgreSQL, and MongoDB**.  
 - 🎨 I also work in **Media Production**, with expertise in **graphic design, photography, and video editing** using Adobe Family (Photoshop, Premiere Pro, After Effects) and Filmora.  
@@ -38,8 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAYDENFLY&show_icons=true&theme=midnight-purple" alt="raydenfly stats" />
-  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly langs" />
-  <br><img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20Views&color=blueviolet&style=plastic" alt="raydenfly views" />
+  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly langs" />
 </p>
 
 ---
