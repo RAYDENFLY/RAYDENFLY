@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/Mikrotik-000000?style=for-the-badge&logo=mikrotik&logoColor=gray"/>
+  <img src="https://img.shields.io/badge/ICP-000000?style=for-the-badge&logo=internet-computer&logoColor=white"/>
 </p>
 
 ---
@@ -57,4 +58,5 @@
   <a href="https://wa.me/62858112145701"><img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
   <a href="mailto:raydenfly84@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
   <a href="https://forum.xda-developers.com/m/raydenfly.12070255/"><img src="https://img.shields.io/badge/XDA--Developers-000000?style=for-the-badge&logo=XDA-Developers&logoColor=%23AC6E2F"/></a>
+  <a href="https://www.linkedin.com/in/azis-maulana-suhada"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 </p>
