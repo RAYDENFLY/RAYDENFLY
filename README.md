@@ -38,8 +38,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAYDENFLY&show_icons=true&theme=midnight-purple" alt="raydenfly stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly langs" />
-  <img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20Views&color=blueviolet&style=plastic" alt="raydenfly views" />
+  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly langs" />
+  <br><img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20Views&color=blueviolet&style=plastic" alt="raydenfly views" />
 </p>
 
 ---
