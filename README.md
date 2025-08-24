@@ -1,7 +1,8 @@
 <h3 align="center">👋 Hi, I'm Azis Maulana Suhada</h3>
 <p align="center">
-  <br><img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20Views&color=blueviolet&style=plastic" alt="raydenfly views" />
+  <img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20Views&color=blueviolet&style=plastic" alt="raydenfly views" />
 </p>
+<br>
 
 
 - 💻 I’m a **Fullstack Developer** experienced in building web applications using **React, Next.js, Node.js, Laravel, PostgreSQL, and MongoDB**.  
@@ -13,7 +14,7 @@
 ---
 
 <h3 align="center">🛠️ Languages & Tools :</h3>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
@@ -39,16 +40,16 @@
 ---
 
 <h3 align="center">📊 GitHub Stats :</h3>
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAYDENFLY&show_icons=true&theme=midnight-purple" alt="raydenfly stats" />
-  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly langs" />
+  <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly langs" />
 </p>
 
 ---
 
 <h3 align="center">📫 Connect with me:</h3>
-
+<br>
 <p align="center">
   <a href="https://instagram.com/azis_maulana321"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
   <a href="https://twitter.com/azis_maulana321"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
