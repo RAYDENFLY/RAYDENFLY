@@ -1,49 +1,56 @@
-<h3 align="center">Introduction :</h3>
+<h3 align="center">👋 Hi, I'm Azis Maulana Suhada</h3>
 
-- 👋 Hi, Im Azis Maulana
-- 🌱 I’m currently learning **Kotlin, ReactJS, NextJS, C, Mikrotik**
-- 👨‍💻 And I am a computer expert starting from Hardware and Software ( Adobe Family, JavaScript ( NodeJS ), Python, Microsoft Office )
+- 💻 I’m a **Fullstack Developer** experienced in building web applications using **React, Next.js, Node.js, Laravel, PostgreSQL, and MongoDB**.  
+- 🎨 I also work in **Media Production**, with expertise in **graphic design, photography, and video editing** using Adobe Family (Photoshop, Premiere Pro, After Effects) and Filmora.  
+- 🌱 Currently exploring **NestJS** and modular TypeScript-based backend development.  
+- 👨‍💻 Skilled in both **Hardware & Software**, including computer troubleshooting and custom PC building.  
+- 🚀 Fast learner, problem solver, and always eager to explore new technologies.  
 
+---
 
-<h3 align="center">Language & Tools :</h3> 
+<h3 align="center">🛠️ Languages & Tools :</h3>
 
-<p>
-    <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=grey"/>
-    <img src="https://img.shields.io/badge/-GNU_Bash-000000?style=for-the-badge&logo=GNU-Bash&logoColor=4EAA25"/>
-    <img src="https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-    <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=blue"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF"/>
+  <img src="https://img.shields.io/badge/Filmora-000000?style=for-the-badge&logo=filmora&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+  <img src="https://img.shields.io/badge/Mikrotik-000000?style=for-the-badge&logo=mikrotik&logoColor=gray"/>
 </p>
-  <p>
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16"/>
-    <img src="https://img.shields.io/badge/XDA--Developers-000000?style=for-the-badge&logo=XDA-Developers&logoColor=%23AC6E2F"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
-    <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-    <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
-    <img src="https://img.shields.io/badge/Mikrotik-000000?style=for-the-badge&logo=mikrotik&logoColor=gray"/>
-  </p>
-  
-<h3 align="center">GitHub Stats :</h3>
-<!---
-want to know more about me please look at my website, namely https://raydenfly76.repl.co
-<!-- Markdown -->
-<img src="https://github-readme-stats.vercel.app/api?username=RAYDENFLY&show_icons=true&theme=midnight-purple" alt="raydenfly" />
-<img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly" />
-<img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20Views&color=blueviolet&style=plastic" alt="raydenfly" /> </p>
 
-<h3 align="center">Follow me:</h3>
+---
 
-<p align="left">
-  <p>
-    <a href="https://instagram.com/azis_maulana321"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red"/></a>
-    <a href="https://twitter.com/azis_maulana321"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue"/></a>
-    <a href="https://t.me/azis_maulana321"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=blue"/></a>
-    <a href="https://https://wa.me/62858112145701"><img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=Whatsapp&logoColor=green"/></a>
-    <a href="https://forum.xda-developers.com/m/raydenfly.12070255/"><img src="https://img.shields.io/badge/XDA--Developers-000000?style=for-the-badge&logo=XDA-Developers&logoColor=%23AC6E2F"/></a>
-    <a href="raydenfly84@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
-  </p>
+<h3 align="center">📊 GitHub Stats :</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAYDENFLY&show_icons=true&theme=midnight-purple" alt="raydenfly stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly langs" />
+  <img src="https://komarev.com/ghpvc/?username=RAYDENFLY&label=Profile%20Views&color=blueviolet&style=plastic" alt="raydenfly views" />
+</p>
+
+---
+
+<h3 align="center">📫 Connect with me:</h3>
+
+<p align="center">
+  <a href="https://instagram.com/azis_maulana321"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  <a href="https://twitter.com/azis_maulana321"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
+  <a href="https://t.me/azis_maulana321"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4"/></a>
+  <a href="https://wa.me/62858112145701"><img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
+  <a href="mailto:raydenfly84@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://forum.xda-developers.com/m/raydenfly.12070255/"><img src="https://img.shields.io/badge/XDA--Developers-000000?style=for-the-badge&logo=XDA-Developers&logoColor=%23AC6E2F"/></a>
+</p>
