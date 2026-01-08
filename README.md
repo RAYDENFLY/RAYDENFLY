@@ -7,10 +7,11 @@
 
 - 💻 I’m a **Fullstack Developer** experienced in building **web applications** using **React, Next.js, Node.js, Laravel, PostgreSQL, and MongoDB**.  
 - 📱 I also have experience in **mobile app development** and **desktop app development**.  
-- 🎨 I also work in **Media Production**, with expertise in **graphic design, photography, and video editing** using Adobe Family (Photoshop, Premiere Pro, After Effects) and Filmora.  
+- 🎨 I also work in **Media Production**, with expertise in **graphic design, Broadcasting, photography, and video editing** using Adobe Family (Photoshop, Premiere Pro, After Effects) and Filmora.  
 - 🗄️ Skilled in managing **databases** such as MySQL, SQLite, PostgreSQL, and MongoDB.  
 - 🌱 Currently exploring **NestJS** and modular TypeScript-based backend development.  
-- 👨‍💻 Skilled in both **Hardware & Software**, including computer troubleshooting and custom PC building.  
+- 👨‍💻 Skilled in both **Hardware & Software**, including computer troubleshooting and custom PC building.
+- 🎧 Beginner DJ, learning basic mixing, beatmatching, and track transitions.
 - 🚀 Fast learner, problem solver, and always eager to explore new technologies.  
 
 ---
@@ -43,22 +44,13 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats :</h3>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAYDENFLY&show_icons=true&theme=midnight-purple" alt="raydenfly stats" />
-  <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYDENFLY&theme=midnight-purple&layout=compact" alt="raydenfly langs" />
-</p>
-
----
-
 <h3 align="center">📫 Connect with me:</h3>
 <br>
 <p align="center">
-  <a href="https://instagram.com/azis_maulana321"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-  <a href="https://twitter.com/azis_maulana321"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
+  <a href="https://instagram.com/345.ryx"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  <a href="https://twitter.com/rayryyty"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
   <a href="https://t.me/azis_maulana321"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4"/></a>
-  <a href="https://wa.me/62858112145701"><img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
+  <a href="https://wa.me/6285719410252"><img src="https://img.shields.io/badge/Whatsapp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>
   <a href="mailto:raydenfly84@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
   <a href="https://forum.xda-developers.com/m/raydenfly.12070255/"><img src="https://img.shields.io/badge/XDA--Developers-000000?style=for-the-badge&logo=XDA-Developers&logoColor=%23AC6E2F"/></a>
   <a href="https://www.linkedin.com/in/azis-maulana-suhada"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
