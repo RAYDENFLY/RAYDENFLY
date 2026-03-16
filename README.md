@@ -7,7 +7,7 @@
 
 - 💻 I’m a **Fullstack Developer** experienced in building **web applications** using **React, Next.js, Node.js, Laravel, PostgreSQL, and MongoDB**.  
 - 📱 I also have experience in **mobile app development** and **desktop app development**.  
-- 🎨 I also work in **Media Production**, with expertise in **graphic design, Broadcasting, photography, and video editing** using Adobe Family (Photoshop, Premiere Pro, After Effects) and Filmora.  
+- 🎨 I also work in **Media Production**, with expertise in **graphic design, Broadcasting, photography, and video editing** using Adobe Family (Photoshop, Premiere Pro), Filmora, Davinci Resolve Studio.  
 - 🗄️ Skilled in managing **databases** such as MySQL, SQLite, PostgreSQL, and MongoDB.  
 - 🌱 Currently exploring **NestJS** and modular TypeScript-based backend development.  
 - 👨‍💻 Skilled in both **Hardware & Software**, including computer troubleshooting and custom PC building.
