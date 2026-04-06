@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF"/>
   <img src="https://img.shields.io/badge/Filmora-000000?style=for-the-badge&logo=filmora&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/FL%20Studio-000000?style=for-the-badge&logo=flstudio&logoColor=9999FF"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/Mikrotik-000000?style=for-the-badge&logo=mikrotik&logoColor=gray"/>
